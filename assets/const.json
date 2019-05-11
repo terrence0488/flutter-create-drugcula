@@ -1,0 +1,10 @@
+{
+  "dataDisUrl": "https://datadiscovery.nlm.nih.gov/resource/crzr-uvwg.json",
+  "rxNavUrl": "https://rxnav.nlm.nih.gov/REST/interaction/interaction.json",
+  "pillBoxUrl": "https://pillbox.nlm.nih.gov/assets/pills/large/",
+  "ast1": "assets/images/img_intro.png",
+  "ast2": "assets/images/img_placeholder.png",
+  "ast3": "Check Drug-drug Interaction",
+  "ast4": "Search by Drugs/Medications name",
+  "token": "e4e8uBv8LS9IBOeyLvwORMzS0"
+}
