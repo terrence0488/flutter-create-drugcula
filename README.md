@@ -21,3 +21,5 @@ You should be able to run this app on a iOS or Android device.
 1. Enter into the app
 2. Search for a drug by generic name
 3. Tap on the result to check the drug-drug interaction with the other drugs.
+
+Please reformat the code if you wannt read it. The code was minified for the reason of meeting the <5Kb requirement of Flutter Create.
